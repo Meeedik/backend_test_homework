@@ -4,3 +4,4 @@ README.md
 
 #игнорим дирректорию
 venv/**
+__pycache__
